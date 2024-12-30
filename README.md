@@ -18,3 +18,7 @@ Technologies used:
 4. Python
 5. SQL
 
+DATA PIPELINE DESIGN:
+
+![image](https://github.com/user-attachments/assets/df1234b3-ccac-4be1-9793-3a9b35c094cd)
+
